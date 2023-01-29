@@ -1,6 +1,6 @@
 package SQL_Basic;
 
-public class Task4 {
+public class Task_4 {
 
     /**
      * Query all columns for a city in CITY with the ID 1661.
